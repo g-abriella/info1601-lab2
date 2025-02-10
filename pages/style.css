@@ -1,0 +1,25 @@
+#pinkText{
+    color: pink;
+  }
+  head{
+    font-family: Helvetica, Arial, sans-serif; font-size: 12px;
+  }
+  body{
+    font-family: Helvetica, Arial, sans-serif; font-size: 12px;
+  }
+
+  a:link { color: rgb(98, 198, 98); }
+  a:visited { color: darkorchid}
+
+  table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+  th, td {
+    background-color: #bdd8ff;
+  }
+
+  nav a{
+    text-decoration: none;
+    
+  }
